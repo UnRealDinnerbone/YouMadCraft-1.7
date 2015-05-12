@@ -1,0 +1,137 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "custommainmenu:textures/gui/icon2.png",
+            "posX" : -20,
+            "posY" : 90,
+            "width" : 145,
+            "height" : 145,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "Singleplayer",
+            "posX" : -137,
+            "posY" : 48,
+            "width" : 75,
+            "height" : 20,
+			"texture" : "custommainmenu:textures/gui/icon3.png",
+			"hoverText" : "§K No Dont Go",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+			"texture" : "custommainmenu:textures/gui/icon3.png",
+            "posX" : -137,
+            "posY" : 72,
+            "width" : 75,
+            "height" : 20,
+			"hoverText" : "§K No Dont Go",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },                   
+        "mods":
+        {
+            "text" : "Mods",
+			"texture" : "custommainmenu:textures/gui/icon3.png",
+            "posX" : -137,
+            "posY" : 96,
+            "width" : 75,
+            "height" : 20,
+			"hoverText" : "§K No Dont Go",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "Options",
+			"texture" : "custommainmenu:textures/gui/icon3.png",
+			"posX" : -137,
+            "posY" : 120,
+            "width" : 75,
+            "height" : 20,
+			"hoverText" : "§K No Dont Go",
+		    "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "Quit Game",
+			"texture" : "custommainmenu:textures/gui/icon3.png",
+            "posX" : -137,
+            "posY" : 145,
+			"hoverText" : "§K No Dont Go",
+            "width" : 75,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        }
+    },
+    "texts":
+    {
+        "favio":
+        {
+            "text" : "Made By FavioP96,",
+            "posX" : -95,
+            "posY" : -20,
+            "color" : -265465465465,
+            "alignment" : "bottom_right",
+			"action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://twitter.com/FavioP96"
+            }
+        },
+		"unreal":
+        {
+            "text" : "Uploaded By UnRealDinnerbone",
+            "posX" : -157,
+            "posY" : -9,
+            "color" : -265465465465,
+            "alignment" : "bottom_right",
+			"action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://twitter.com/unrealdinner"
+            }
+        }
+    },
+    
+    "other":
+    {
+          
+        "panorama":
+        {
+            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 100,
+            "blur" : true,
+            "gradient" : false
+        }
+    }
+}
