@@ -2,7 +2,7 @@
 	"manifestType":"minecraftModpack",
 	"manifestVersion":1,
 	"name":"YouMadCraft",
-	"version":"1.7.1a",
+	"version":"1.8.0a",
 	"author":"FavioP96",
 	"description":"Easy? Hard? Op? Yep This Pack Got It",
 	"files":[  
@@ -38,32 +38,32 @@
 		},
 		{
 			"projectID": 63352,
-			"fileID": 2237715,
-			"fileName": "neiaddons-1.12.8.28-mc1.7.10.jar",
+			"fileID": 2238188,
+			"fileName": "neiaddons-1.12.8.30-mc1.7.10.jar",
 			"required": true
 		},
 		{
 			"projectID": 64578,
-			"fileID": 2232435,
-			"fileName": "EnderIO-1.7.10-2.2.8.367.jar",
+			"fileID": 2238375,
+			"fileName": "EnderIO-1.7.10-2.2.8.381.jar",
 			"required": true
 		},
 		{
 			"projectID": 66672,
-			"fileID": 2237663,
-			"fileName": "MineFactoryReloaded-[1.7.10]2.8.1B1-113.jar",
+			"fileID": 2234089,
+			"fileName": "MineFactoryReloaded-[1.7.10]2.8.1B1-106.jar",
 			"required": true
 		},
 		{
 			"projectID": 66675,
-			"fileID": 2235539,
-			"fileName": "NetherOres-[1.7.10]2.3.1B1-14.jar",
+			"fileID": 2233957,
+			"fileName": "NetherOres-[1.7.10]2.3.1B1-13.jar",
 			"required": true
 		},
 		{
 			"projectID": 67133,
-			"fileID": 2235121,
-			"fileName": "VeinMiner 0.27.1 [MC1.7.2,1.7.10; build unknown]",
+			"fileID": 2229998,
+			"fileName": "VeinMiner 0.26.1 [MC1.7.2,1.7.10; build unknown]",
 			"required": true
 		},
 		{
@@ -74,14 +74,14 @@
 		},
 		{
 			"projectID": 69162,
-			"fileID": 2237841,
-			"fileName": "CoFHCore-[1.7.10]3.0.2-278.jar",
+			"fileID": 2238624,
+			"fileName": "CoFHCore-[1.7.10]3.0.2-282.jar",
 			"required": true
 		},
 		{
 			"projectID": 69163,
-			"fileID": 2234200,
-			"fileName": "ThermalExpansion-[1.7.10]4.0.1-182.jar",
+			"fileID": 2233796,
+			"fileName": "ThermalExpansion-[1.7.10]4.0.0-176.jar",
 			"required": true
 		},
 		{
@@ -98,8 +98,8 @@
 		},
 		{
 			"projectID": 74072,
-			"fileID": 2237598,
-			"fileName": "TConstruct-1.7.10-1.8.5.jar",
+			"fileID": 2234077,
+			"fileName": "TConstruct-1.7.10-1.8.4RC1.jar",
 			"required": true
 		},
 		{
@@ -110,8 +110,8 @@
 		},
 		{
 			"projectID": 221696,
-			"fileID": 2236209,
-			"fileName": "Ex-Nihilo-1.38-36.jar",
+			"fileID": 2239775,
+			"fileName": "Ex-Nihilo-1.38-39.jar",
 			"required": true
 		},
 		{
@@ -128,14 +128,14 @@
 		},
 		{
 			"projectID": 222211,
-			"fileID": 2235350,
-			"fileName": "NotEnoughItems-1.7.10-1.0.4.100-universal.jar",
+			"fileID": 2237940,
+			"fileName": "NotEnoughItems-1.7.10-1.0.4.107-universal.jar",
 			"required": true
 		},
 		{
 			"projectID": 222213,
-			"fileID": 2235349,
-			"fileName": "CodeChickenCore-1.7.10-1.0.6.39-universal.jar",
+			"fileID": 2237939,
+			"fileName": "CodeChickenCore-1.7.10-1.0.6.43-universal.jar",
 			"required": true
 		},
 		{
@@ -152,38 +152,44 @@
 		},
 		{
 			"projectID": 223248,
-			"fileID": 2237600,
-			"fileName": "IguanaTinkerTweaks-1.7.10-2.1.5.jar",
+			"fileID": 2230545,
+			"fileName": "IguanaTinkerTweaks-1.7.10-2.1.4.jar",
 			"required": true
 		},
 		{
 			"projectID": 223428,
-			"fileID": 2234307,
-			"fileName": "EnderTech-1.7.10-0.3.2.382.jar",
+			"fileID": 2238351,
+			"fileName": "EnderTech-1.7.10-0.3.2.388.jar",
 			"required": true
 		},
 		{
 			"projectID": 223565,
-			"fileID": 2237620,
-			"fileName": "Draconic-Evolution-1.7.10-v1.0.1b.jar",
+			"fileID": 2238002,
+			"fileName": "Draconic-Evolution-1.7.10-1.0.1c.jar",
 			"required": true
 		},
 		{
 			"projectID": 223703,
-			"fileID": 2236942,
-			"fileName": "compactstorage-1.7.10-release-2.0.0.9-universal.jar",
+			"fileID": 2231044,
+			"fileName": "compactstorage-1.7.10-release-2.0.0.8-universal.jar",
+			"required": true
+		},
+		{
+			"projectID": 223792,
+			"fileID": 2238507,
+			"fileName": "INpureCore-[1.7.10]1.0.0B9-62.jar",
 			"required": true
 		},
 		{
 			"projectID": 223794,
-			"fileID": 2236692,
-			"fileName": "appliedenergistics2-rv2-beta-33.jar",
+			"fileID": 2238960,
+			"fileName": "appliedenergistics2-rv2-stable-3.jar",
 			"required": true
 		},
 		{
 			"projectID": 224599,
-			"fileID": 2237615,
-			"fileName": "mystcraft-1.7.10-0.11.8.00.jar",
+			"fileID": 2239800,
+			"fileName": "mystcraft-1.7.10-0.11.10.00.jar",
 			"required": true
 		},
 		{
@@ -194,32 +200,32 @@
 		},
 		{
 			"projectID": 225251,
-			"fileID": 2234835,
-			"fileName": "NEIIntegration-MC1.7.10-1.0.9.jar",
+			"fileID": 2233766,
+			"fileName": "NEIIntegration-MC1.7.10-1.0.8.jar",
 			"required": true
 		},
 		{
 			"projectID": 225561,
-			"fileID": 2237369,
-			"fileName": "Extra Utilities 1.2.4c",
+			"fileID": 2239472,
+			"fileName": "Extra Utilities 1.2.5",
 			"required": true
 		},
 		{
 			"projectID": 226082,
-			"fileID": 2235082,
-			"fileName": "ttCore-MC1.7.10-0.1.1-76.jar",
+			"fileID": 2233616,
+			"fileName": "ttCore-MC1.7.10-0.1.1-75.jar",
 			"required": true
 		},
 		{
 			"projectID": 226406,
-			"fileID": 2232492,
-			"fileName": "CustomMainMenu-MC1.7.10-1.4.jar",
+			"fileID": 2238779,
+			"fileName": "CustomMainMenu-MC1.7.10-1.5.jar",
 			"required": true
 		},
 		{
 			"projectID": 226410,
-			"fileID": 2237136,
-			"fileName": "ProjectE-1.7.10-PE1.4.6.jar",
+			"fileID": 2238824,
+			"fileName": "ProjectE-1.7.10-PE1.4.7.jar",
 			"required": true
 		},
 		{
@@ -230,8 +236,8 @@
 		},
 		{
 			"projectID": 226843,
-			"fileID": 2234348,
-			"fileName": "Project Superhuman v1.0",
+			"fileID": 2238456,
+			"fileName": "Project Superhuman v1.1 [Age of Ultron] 1.7.10",
 			"required": true
 		},
 		{
@@ -248,8 +254,8 @@
 		},
 		{
 			"projectID": 227639,
-			"fileID": 2231898,
-			"fileName": "twilightforest-1.7.10-2.3.5.jar",
+			"fileID": 2238492,
+			"fileName": "twilightforest-1.7.10-2.3.7.jar",
 			"required": true
 		},
 		{
@@ -260,8 +266,8 @@
 		},
 		{
 			"projectID": 228027,
-			"fileID": 2235545,
-			"fileName": "BiblioCraft v1.10.4",
+			"fileID": 2234064,
+			"fileName": "BiblioCraft v1.10.3",
 			"required": true
 		},
 		{
@@ -272,20 +278,20 @@
 		},
 		{
 			"projectID": 228815,
-			"fileID": 2237475,
-			"fileName": "OpenModsLib-1.7.10-0.7.3.jar",
+			"fileID": 2233959,
+			"fileName": "OpenModsLib-1.7.10-0.7.1.jar",
 			"required": true
 		},
 		{
 			"projectID": 228816,
-			"fileID": 2237477,
-			"fileName": "OpenBlocks-1.7.10-1.4.3.jar",
+			"fileID": 2233962,
+			"fileName": "OpenBlocks-1.7.10-1.4.1.jar",
 			"required": true
 		},
 		{
 			"projectID": 228817,
-			"fileID": 2235652,
-			"fileName": "OpenPeripheralCore-1.7.10-1.1.1.jar",
+			"fileID": 2233964,
+			"fileName": "OpenPeripheralCore-1.7.10-1.1.jar",
 			"required": true
 		},
 		{
@@ -296,8 +302,8 @@
 		},
 		{
 			"projectID": 228819,
-			"fileID": 2235649,
-			"fileName": "OpenPeripheralIntegration-1.7.10-0.2.2.jar",
+			"fileID": 2233968,
+			"fileName": "OpenPeripheralIntegration-1.7.10-0.2.1.jar",
 			"required": true
 		},
 		{
@@ -320,8 +326,8 @@
 		},
 		{
 			"projectID": 229306,
-			"fileID": 2235348,
-			"fileName": "EnderStorage-1.7.10-1.4.7.33-universal.jar",
+			"fileID": 2233209,
+			"fileName": "EnderStorage-1.7.10-1.4.6.31-universal.jar",
 			"required": true
 		},
 		{
@@ -349,9 +355,9 @@
 			"required": true
 		},
 		{
-			"projectID": 229525,
-			"fileID": 2235678,
-			"fileName": "CutePuppyMod 1.7.10 0.0.4-1",
+			"projectID": 230541,
+			"fileID": 2238742,
+			"fileName": "lookingglass-1.7.10-0.0.1.01.jar",
 			"required": true
 		}
 	],
