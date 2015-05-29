@@ -2,7 +2,7 @@
 	"manifestType":"minecraftModpack",
 	"manifestVersion":1,
 	"name":"YouMadCraft",
-	"version":"1.8.0a",
+	"version":"1.8.1a",
 	"author":"FavioP96",
 	"description":"Easy? Hard? Op? Yep This Pack Got It",
 	"files":[  
@@ -38,8 +38,8 @@
 		},
 		{
 			"projectID": 63352,
-			"fileID": 2238188,
-			"fileName": "neiaddons-1.12.8.30-mc1.7.10.jar",
+			"fileID": 2240200,
+			"fileName": "neiaddons-1.12.8.31-mc1.7.10.jar",
 			"required": true
 		},
 		{
@@ -50,20 +50,20 @@
 		},
 		{
 			"projectID": 66672,
-			"fileID": 2234089,
-			"fileName": "MineFactoryReloaded-[1.7.10]2.8.1B1-106.jar",
+			"fileID": 2237663,
+			"fileName": "MineFactoryReloaded-[1.7.10]2.8.1B1-113.jar",
 			"required": true
 		},
 		{
 			"projectID": 66675,
-			"fileID": 2233957,
-			"fileName": "NetherOres-[1.7.10]2.3.1B1-13.jar",
+			"fileID": 2235539,
+			"fileName": "NetherOres-[1.7.10]2.3.1B1-14.jar",
 			"required": true
 		},
 		{
 			"projectID": 67133,
-			"fileID": 2229998,
-			"fileName": "VeinMiner 0.26.1 [MC1.7.2,1.7.10; build unknown]",
+			"fileID": 2235121,
+			"fileName": "VeinMiner 0.27.1 [MC1.7.2,1.7.10; build unknown]",
 			"required": true
 		},
 		{
@@ -80,8 +80,8 @@
 		},
 		{
 			"projectID": 69163,
-			"fileID": 2233796,
-			"fileName": "ThermalExpansion-[1.7.10]4.0.0-176.jar",
+			"fileID": 2234200,
+			"fileName": "ThermalExpansion-[1.7.10]4.0.1-182.jar",
 			"required": true
 		},
 		{
@@ -98,8 +98,8 @@
 		},
 		{
 			"projectID": 74072,
-			"fileID": 2234077,
-			"fileName": "TConstruct-1.7.10-1.8.4RC1.jar",
+			"fileID": 2237598,
+			"fileName": "TConstruct-1.7.10-1.8.5.jar",
 			"required": true
 		},
 		{
@@ -122,8 +122,8 @@
 		},
 		{
 			"projectID": 221863,
-			"fileID": 2237520,
-			"fileName": "AOBD-2.6.2.jar",
+			"fileID": 2240167,
+			"fileName": "AOBD-2.6.3.jar",
 			"required": true
 		},
 		{
@@ -152,8 +152,8 @@
 		},
 		{
 			"projectID": 223248,
-			"fileID": 2230545,
-			"fileName": "IguanaTinkerTweaks-1.7.10-2.1.4.jar",
+			"fileID": 2237600,
+			"fileName": "IguanaTinkerTweaks-1.7.10-2.1.5.jar",
 			"required": true
 		},
 		{
@@ -170,8 +170,8 @@
 		},
 		{
 			"projectID": 223703,
-			"fileID": 2231044,
-			"fileName": "compactstorage-1.7.10-release-2.0.0.8-universal.jar",
+			"fileID": 2236942,
+			"fileName": "compactstorage-1.7.10-release-2.0.0.9-universal.jar",
 			"required": true
 		},
 		{
@@ -200,8 +200,8 @@
 		},
 		{
 			"projectID": 225251,
-			"fileID": 2233766,
-			"fileName": "NEIIntegration-MC1.7.10-1.0.8.jar",
+			"fileID": 2234835,
+			"fileName": "NEIIntegration-MC1.7.10-1.0.9.jar",
 			"required": true
 		},
 		{
@@ -212,8 +212,8 @@
 		},
 		{
 			"projectID": 226082,
-			"fileID": 2233616,
-			"fileName": "ttCore-MC1.7.10-0.1.1-75.jar",
+			"fileID": 2235082,
+			"fileName": "ttCore-MC1.7.10-0.1.1-76.jar",
 			"required": true
 		},
 		{
@@ -266,8 +266,8 @@
 		},
 		{
 			"projectID": 228027,
-			"fileID": 2234064,
-			"fileName": "BiblioCraft v1.10.3",
+			"fileID": 2235545,
+			"fileName": "BiblioCraft v1.10.4",
 			"required": true
 		},
 		{
@@ -278,20 +278,20 @@
 		},
 		{
 			"projectID": 228815,
-			"fileID": 2233959,
-			"fileName": "OpenModsLib-1.7.10-0.7.1.jar",
+			"fileID": 2237475,
+			"fileName": "OpenModsLib-1.7.10-0.7.3.jar",
 			"required": true
 		},
 		{
 			"projectID": 228816,
-			"fileID": 2233962,
-			"fileName": "OpenBlocks-1.7.10-1.4.1.jar",
+			"fileID": 2237477,
+			"fileName": "OpenBlocks-1.7.10-1.4.3.jar",
 			"required": true
 		},
 		{
 			"projectID": 228817,
-			"fileID": 2233964,
-			"fileName": "OpenPeripheralCore-1.7.10-1.1.jar",
+			"fileID": 2235652,
+			"fileName": "OpenPeripheralCore-1.7.10-1.1.1.jar",
 			"required": true
 		},
 		{
@@ -302,8 +302,8 @@
 		},
 		{
 			"projectID": 228819,
-			"fileID": 2233968,
-			"fileName": "OpenPeripheralIntegration-1.7.10-0.2.1.jar",
+			"fileID": 2235649,
+			"fileName": "OpenPeripheralIntegration-1.7.10-0.2.2.jar",
 			"required": true
 		},
 		{
@@ -326,8 +326,8 @@
 		},
 		{
 			"projectID": 229306,
-			"fileID": 2233209,
-			"fileName": "EnderStorage-1.7.10-1.4.6.31-universal.jar",
+			"fileID": 2235348,
+			"fileName": "EnderStorage-1.7.10-1.4.7.33-universal.jar",
 			"required": true
 		},
 		{
@@ -352,6 +352,12 @@
 			"projectID": 229323,
 			"fileID": 2233292,
 			"fileName": "ForgeMultipart-1.7.10-1.1.2.331-universal.jar",
+			"required": true
+		},
+		{
+			"projectID": 229525,
+			"fileID": 2235678,
+			"fileName": "CutePuppyMod 1.7.10 0.0.4-1",
 			"required": true
 		},
 		{
