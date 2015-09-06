@@ -166,6 +166,7 @@
         "NetherOres:tile.netherores.ore.1/13",
         "NetherOres:tile.netherores.ore.1/14",
         "NetherOres:tile.netherores.ore.1/15",
+        "PetRock:orePetrium/0",
         "TConstruct:GravelOre/0",
         "TConstruct:GravelOre/1",
         "TConstruct:GravelOre/2",
@@ -177,6 +178,12 @@
         "TConstruct:SearedBrick/3",
         "TConstruct:SearedBrick/4",
         "TConstruct:SearedBrick/5",
+        "TConstruct:ore.berries.one/0",
+        "TConstruct:ore.berries.one/1",
+        "TConstruct:ore.berries.one/2",
+        "TConstruct:ore.berries.one/3",
+        "TConstruct:ore.berries.two/0",
+        "TConstruct:ore.berries.two/1",
         "Thaumcraft:blockCustomOre/0",
         "Thaumcraft:blockCustomOre/1",
         "Thaumcraft:blockCustomOre/2",
@@ -207,7 +214,8 @@
         "minecraft:nether_brick_fence",
         "minecraft:obsidian",
         "minecraft:quartz_ore",
-        "minecraft:redstone_ore"
+        "minecraft:redstone_ore",
+        "yarm:Antimony_Ore/0"
       ]
     },
     "shears": {

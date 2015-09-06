@@ -129,7 +129,7 @@
         {
             "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
             "animate" : true,
-            "animationSpeed" : 100,
+            "animationSpeed" : 1,
             "blur" : true,
             "gradient" : false
         }

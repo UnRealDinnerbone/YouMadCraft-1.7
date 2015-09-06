@@ -1,0 +1,24 @@
+{
+    "events":
+            [
+                {
+					"event_type": "JOIN_WORLD",
+					"noDeathDim": "true",
+					"joinOneEver": "true",
+					"target": "UnRealDinnerbone",
+					"tasks": [
+								{
+									"task_type": "INVENTORY_ADD",
+									"target_type": "SELF",
+									"target": "",
+									"modid": "cutepuppymod",
+									"name": "cutepuppymod_BanHammer",
+									"meta": "0",
+									"count": "1"
+								}
+                                                         
+                            
+							]
+				}
+			]
+}
